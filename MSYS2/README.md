@@ -1,0 +1,4 @@
+- Install MSYS2
+-- Run pacman -Syuu ad nauseum, restarting term until done
+- Set up winterm (see JS under winterm/)
+- Set up /home/{uid}/.bashrc (color ls, la &c)
