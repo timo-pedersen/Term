@@ -1,2 +1,2 @@
 # Term
-Terminal environment setup Windows
+Terminal environment setup, Windows
