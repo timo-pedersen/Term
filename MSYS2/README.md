@@ -5,6 +5,7 @@
 
 # Winterm
 JS: (note %USERPROFILE% and -use-full-path)
+```js
 ,
             {
                 "commandline": "C:/msys64/msys2_shell.cmd -defterm -here -no-start -use-full-path -ucrt64",
@@ -14,3 +15,4 @@ JS: (note %USERPROFILE% and -use-full-path)
                 "name": "UCRT64 / MSYS2",
                 "startingDirectory": "%USERPROFILE%"
             }
+```
