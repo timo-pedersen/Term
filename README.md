@@ -1,6 +1,9 @@
 # Term
 Terminal environment setup, Windows
 
+## Nerdfont
+0xProto
+
 ## MSYS2 - UCRT64 (clang)
 Install in root of c:\
 - Check out making msys home = windows $USERPROFILE
