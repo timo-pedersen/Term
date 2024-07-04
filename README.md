@@ -7,7 +7,7 @@ Install in root of c:\
 - Check out how to make msys git aware
 
 ## nvim
-`winget install Neovim.Neovim`
+See settings under its own repo.
 
 ## rg
 `winget install BurntSushi.ripgrep.MSVC`
